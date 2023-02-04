@@ -1,0 +1,24 @@
+{
+  "name": "halaa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js",
+    "dev":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hala-sherif98/halaa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hala-sherif98/halaa/issues"
+  },
+  "homepage": "https://github.com/Hala-sherif98/halaa#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
